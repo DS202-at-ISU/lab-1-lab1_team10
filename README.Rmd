@@ -32,6 +32,8 @@ This is a line from RStudio - Luke Juffer
 
 
 This is a change from rStudio
+This is a change from rStudio (Vinayak Trigunayat)
+New Change
 
 Problems 
 1. I had to install git and connect my rstudio to github
