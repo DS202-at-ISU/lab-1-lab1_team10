@@ -37,9 +37,9 @@ Problems
 1. I had to install git and connect my rstudio to github
 2. For some reason we didn't have to authorize the commit, it just immediately changed the file
 
->**_This is a line from RStudio -gabriel_**
+>**_This is a line from RStudio -Gabriel_**
 
-### More problems:
+*More problems*:
   * We had to do a 'git config pull.rebase false' before we could pull
   * We had to generate a personal access token and install the gitcreds package
   * and then do a gitcreds_set()
