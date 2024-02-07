@@ -23,3 +23,6 @@ This is a line from RStudio
 
 *Problems*
 + We ran into a problem where we are unable to push our commits to Git. It says something about password authentication expiring in 2021.
+  + We looked up the problem and discovered that we must create personal access tokens
++We ran into a problem where we are unable to push our changes because we "don't have local access to some reference material"
+  +
