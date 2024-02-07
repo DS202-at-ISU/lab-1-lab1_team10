@@ -17,14 +17,15 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission. \<\<\<\<\<\<\< HEAD
 
-*Answers* This is a line from RStudio
+*Answers* This is a line from RStudio - Luke Juffer
 
 *Problems* + We ran into a problem where we are unable to push our
 commits to Git. It says something about password authentication expiring
 in 2021. + We looked up the problem and discovered that we must create
 personal access tokens + We ran into a problem where we are unable to
 push our changes because we “don’t have local access to some reference
-material” +
+material” + We ran code to merge the differences, saved, committed,
+pulled, and then pushed
 
 This is a change from rStudio
 
