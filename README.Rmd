@@ -38,6 +38,7 @@ New Change
 Problems 
 1. I had to install git and connect my rstudio to github
 2. For some reason we didn't have to authorize the commit, it just immediately changed the file
+3. Had to figure out how to merge
 
 >**_This is a line from RStudio -gabriel_**
 
