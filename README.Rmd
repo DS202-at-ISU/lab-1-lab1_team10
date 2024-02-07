@@ -20,14 +20,23 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 <<<<<<< HEAD
 
 
-=======
+*Answers*
+This is a line from RStudio
+
+*Problems*
++ We ran into a problem where we are unable to push our commits to Git. It says something about password authentication expiring in 2021.
+  + We looked up the problem and discovered that we must create personal access tokens
++ We ran into a problem where we are unable to push our changes because we "don't have local access to some reference material"
+  +
+
+
+
 This is a change from rStudio
 This is a change from rStudio (Vinayak Trigunayat)
 
 Problems 
 1. I had to install git and connect my rstudio to github
 2. For some reason we didn't have to authorize the commit, it just immediately changed the file
->>>>>>> 8f020900712c7a2821d5ccc013f0712df91391fe
 
 >**_This is a line from RStudio -gabriel_**
 ### More problems:
